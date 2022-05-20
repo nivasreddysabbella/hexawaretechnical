@@ -1,0 +1,29 @@
+scrum-frame work to implement Agile
+Scrum has 3 sections
+
+1. Roles  ->Product Owner, Scrum Master, Scrum Team (7 or (9 +-2))
+
+2. Artifacts-> product backlog,sprint backlog, burn-up/burn-down chart
+
+3. Ceremonies(meetings)-> Scrum meeting, sprint meeting(beginning of every sprint),
+Daily Standup meeing(15 min),sprint review(demo of the features), spring retrospective,
+
+MoSCoW prioritization Scheme
+
+1. must have
+2. should have 
+3. could have
+4. wont to have
+
+______________________________________________________________________________________________
+
+the entire methodollgy is based on the collabration
+
+1. version to be updated version control system(vcs)
+a version control system is used 
+local version control system(installed in respective system)
+central version (centrol server -log in to the server to work on it)
+distributed version control system-stores data in some other place
+distributed with code repositiries.
+1.git
+2. mercurial
